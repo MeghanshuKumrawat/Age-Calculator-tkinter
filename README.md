@@ -23,4 +23,4 @@ python main.py
 
 # Output :-
 
-![output image](https://github.com/MeghanshuKumrawat/Age-Calculator-tkinter/blob/master/output.png)
+![output image](https://github.com/MeghanshuKumrawat/Age-Calculator-tkinter/blob/main/output.png)
